@@ -1,0 +1,12 @@
+{
+  "namespace": "LoginComponent",
+  "fsNamespace": "login-component",
+  "loader": "../login-component.js",
+  "core": "login-component.core.js",
+  "corePolyfilled": "es5-build-disabled.js",
+  "components": {
+    "login-component": {
+      "$": "login-component"
+    }
+  }
+}
